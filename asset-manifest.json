@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e30b8340.css",
+    "main.js": "/static/js/main.21ef841d.js",
+    "static/js/592.9bd8e26e.chunk.js": "/static/js/592.9bd8e26e.chunk.js",
+    "static/media/lab.png": "/static/media/lab.610b4ae7e358c91923e1.png",
+    "static/media/weather.png": "/static/media/weather.0d87ad66d87cd95deeda.png",
+    "static/media/gametheory.png": "/static/media/gametheory.a08c9fd1c51d64e0795e.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.98b78eb9f253c612c2e5.png",
+    "index.html": "/index.html",
+    "main.e30b8340.css.map": "/static/css/main.e30b8340.css.map",
+    "main.21ef841d.js.map": "/static/js/main.21ef841d.js.map",
+    "592.9bd8e26e.chunk.js.map": "/static/js/592.9bd8e26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30b8340.css",
+    "static/js/main.21ef841d.js"
+  ]
+}
